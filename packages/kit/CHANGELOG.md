@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.11.1
+
+### Patch Changes
+
+- fix: handle srcset attributes with newline after comma ([#9388](https://github.com/sveltejs/kit/pull/9388))
+
 ## 1.11.0
 
 ### Minor Changes
